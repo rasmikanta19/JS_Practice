@@ -1,1 +1,3 @@
 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
+
+git remote set-url origin https://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@github.com/rasmikanta19/JS_Practice.git
