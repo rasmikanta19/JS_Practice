@@ -56,10 +56,7 @@ const allTitles= await titles.allTextContents();
 console.log(allTitles);
 
 
-
-
-
-//await page.close();
+await page.close();
 
 
 });
