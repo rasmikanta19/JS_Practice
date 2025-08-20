@@ -25,6 +25,7 @@ const config=({
   use: {
  
     browserName:'chromium',
+    
   },
   
 });
