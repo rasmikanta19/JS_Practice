@@ -1,6 +1,0 @@
-
-
-git remote set-url origin @github.com/rasmikanta19/JS_Practice.git
-
-
-I want to check git Conflict
